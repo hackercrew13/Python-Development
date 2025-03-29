@@ -1,7 +1,5 @@
 # Python-Development
 
-# Python Internship Tasks
-
 ## 📌 Overview
 This repository contains multiple Python tasks designed to enhance programming skills in various areas such as algorithms, automation, data visualization, web scraping, and more.
 
